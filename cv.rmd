@@ -21,13 +21,11 @@ rmarkdown::render('./cv.rmd', 'pdf_document')
 <br/>
 
 
-**David Beauchesne**, biol. M.Sc.
+**David Beauchesne**, Ph.D.
 
-Ph.D. candidate
+Postdoctoral researcher
 
-Institut des sciences de la mer de Rimouski (ISMER)
-
-Université du Québec à Rimouski
+Université Laval
 
 Cell: 1 (514) 553-4974
 
@@ -68,13 +66,23 @@ david.beauchesne@hotmail.com
 
 ---
 
+# Professional experiences
+
+2020-Present - Postdoctoral researcher, Université Laval, Québec, Canada
+
+2020-Present - inSileco Inc., Co-president and co-founder
+
+2012-2014 - Resarch professional, Université du Québec à Rimouski, Qc, Canada
+
+---
+
 # Diplomas
 
-Ph.D. Oceanography, Université du Québec à Rimouski, Qc, Canada, 2014-Present
+2014-2020 - Ph.D. Oceanography, Université du Québec à Rimouski, Qc, Canada
 
-M.Sc. Geography, Planning & Environment, Concordia University, Qc, Canada, 2009-2012
+2009-2012 - M.Sc. Geography, Planning & Environment, Concordia University, Qc, Canada
 
-B.Sc. Biologie, Université du Québec à Rimouski, Qc, Canada, 2006-2009
+2006-2009 - B.Sc. Biologie, Université du Québec à Rimouski, Qc, Canada
 
 <br/>
 
@@ -125,6 +133,8 @@ R, LaTeX, Markdown, HTML5, CSS, SAS, Sigma Plot, Inkscape, ArcGIS, QGIS, Office,
 
 # Published articles
 
+[9] Fajardo P, Beauchesne D, Carbajal-López A, Daigle R M, Fierro Arcos L D, Goldsmit J, Zajderman S, Christofoletti R A (2021) Integrating traditional knowledge into conservation and sustainable use of marine and coastal biodiversity. Peer J.
+
 [8] Beauchesne, D, Daigle, R M, Vissault, S, Gravel, D, Bastien, A, Bélanger, S, Bernatchez, P, Blais, M, Bourdages, H, Chion, C, Galbraith, P S, Halpern, B S, Lavoie, C, McKindsey, C W, Mucci, A, Pineault, S, Starr, M, Ste-Marie, A-S, & Archambault, P (2020). Characterizing Exposure to and Sharing Knowledge of Drivers of Environmental Change in the St. Lawrence System in Canada. Frontiers in Marine Science, 7. https://doi.org/10.3389/fmars.2020.00383
 
 [7] Dreujou E, Carrier-Belleau C, Goldsmit J, Fiorentino D,  Ben-Hamadou R, Said H, Muelbert J H, Godbold J A, Daigle R M, Beauchesne D (2020) Holistic Environmental Assessments and Aichi Biodiversity Targets: accomplishments and perspectives. Peer J.
@@ -148,12 +158,9 @@ R, LaTeX, Markdown, HTML5, CSS, SAS, Sigma Plot, Inkscape, ArcGIS, QGIS, Office,
 
 # Articles submitted or in preparation
 
-
-[1] Fajardo P, Beauchesne D, Carbajal-López A, Daigle R M, Fierro Arcos L D, Goldsmit J, Zajderman S, Christofoletti R A (in revision) Integrating traditional knowledge into conservation and sustainable use of marine and coastal biodiversity. Peer J.
-
 [2] Beauchesne, D, Cazelles, K, Archambault, P, Dee, L, & Gravel, D (2020). On the sensitivity of food webs to multiple stressors [Preprint]. Preprints. https://doi.org/10.22541/au.159621485.58777803. In revision in Ecology Letters.
 
-[2] Beauchesne, D, Cazelles, K, Daigle, R M, Gravel, D, Archambault, P (In preparation). Ecological interactions amplify cumulative effects in marine ecosystems.
+[1] Beauchesne, D, Cazelles, K, Daigle, R M, Gravel, D, Archambault, P (In preparation). Ecological interactions amplify cumulative effects in marine ecosystems.
 
 <br/>
 
@@ -164,7 +171,19 @@ R, LaTeX, Markdown, HTML5, CSS, SAS, Sigma Plot, Inkscape, ArcGIS, QGIS, Office,
 
 [1] Schloss IR, Archambault P, Beauchesne D, Bourgault D, Cusson M, Dumont D, Ferreyra G, Levasseur M, Pelletier É, St-Louis R, Tremblay R (2018) Impacts potentiels cumulés des facteurs de stress liés aux activités humaines sur l’écosystème marin du Saint-Laurent. Notre Golfe network.
 
+
 <br/>
+
+---
+
+# Theses
+
+[2] Beauchesne D (2020) Évaluation des effets cumulatifs des changements globaux sur les écosystèmes. Le cas de l'estuaire et du golfe du Saint-Laurent. Université du Québec à Rimouski. Ph.D. thesis.
+
+[1] Beauchesne D (2012) Influence of disturbances on the movements of female woodland caribou (Rangifer tarandus caribou) across multiple spatiotemporal scales. Concordia University. M.Sc. thesis.
+
+<br/>
+
 
 ---
 
@@ -199,6 +218,19 @@ R, LaTeX, Markdown, HTML5, CSS, SAS, Sigma Plot, Inkscape, ArcGIS, QGIS, Office,
 ---
 
 # Oral presentations
+
+[26] Beauchesne D, Guillemette C, Grant C, Archambault P (2021). Évaluation des effets cumulatifs. Une perspective écosystémique. Invited speaker for Environment Canada. March 25th.
+
+[25] Beauchesne D, Archambault P. (2021) Évaluation des effets cumulatifs des changements globaux sur les communautés écologiques. Invited speaker for DFO meeting. February 12th. https://david-beauchesne.github.io/2021-02-12-DFO_MSP/#1
+
+[24] Beauchesne D (2021) Évaluation des effets cumulatifs. Une perspective écosystémique. Invited speaker for a course on Environmental Impact Assessment at Université Laval. February 9th.
+
+[23] Beauchesne D (2021) Cumulative effects assessment. An ecosystem perspective. Invited speaker. Webinar on the assessment and management of cumulative effects by and for First Nations. February 4th. https://david-beauchesne.github.io/2021-02-04_Webinaire_IDDPNQL_en/#1
+
+[22] Beauchesne D, K Cazelles, R M Daigle, D Gravel, Archambault P (2020) Assessing the cumulative effects of global changes on ecosystems.
+The case of the St. Lawrence System. Invited speaker. December 16th. https://david-beauchesne.github.io/DFO-BIO_Intro_presentation/#1
+
+[21] Beauchesne D, Grant C, Archambault P (2020) Effets cumulatifs des activités maritimes sur le Saint-Laurent et la rivière Saguenay - Projet pilote. Public webinar. June 1th. https://effetscumulatifsnavigation.github.io/WebinaireMethode/
 
 [20] Beauchesne D (2019) Évaluation de l’exposition cumulée au sein du Saint-Laurent: défis, solutions et perspectives. Invited speaker. Institut Maurice Lamontagne, Department of Fisheries and Oceans Canada, Mont-Joli, Québec, Canada. May 2nd.
 
@@ -275,6 +307,23 @@ R, LaTeX, Markdown, HTML5, CSS, SAS, Sigma Plot, Inkscape, ArcGIS, QGIS, Office,
 
 [1] Beauchesne D (2007) Conservation de la tortue mouchetée en Nouvelle-Écosse. Public poster presentation, Université du Québec à Rimouski, Rimouski, Québec, Canada
 
+<br/>
+
+---
+
+<br/>
+
+# Radio / talk
+
+[2] Radio-Canada July 2nd 2020
+
+[1] Intervenant, Podcast DFO, reproducibility
+
+---
+
+# Teaching material
+
+[1] Beauchesne D., Brice M., Casajus N., Cazelles K., Dreujou E., Vissault S. R in Space (Web book). Learn how to use R as a powerful GIS (en).
 
 <br/>
 
@@ -316,6 +365,8 @@ R, LaTeX, Markdown, HTML5, CSS, SAS, Sigma Plot, Inkscape, ArcGIS, QGIS, Office,
 
 # Workshops
 
+[11] DFO Environment and Biodiversity Science Branch Cumulative Effects Workshop. Department of Fisheries and Oceans Canada. January 19th, 21st, 26th.
+
 [10] Review of Approaches for Marine Conservation Network Monitoring - National Peer Review. Department of Fisheries and Oceans Canada. Montréal, QC, Canada. September 10-12 2019.
 
 [9] Cumulative effects assessment of marine shipping activities: a technical workshop. Transport Canada. Ottawa, ON, Canada. February 20-21 2019
@@ -341,6 +392,14 @@ R, LaTeX, Markdown, HTML5, CSS, SAS, Sigma Plot, Inkscape, ArcGIS, QGIS, Office,
 ---
 
 # Workshop organizer
+
+[7] Beauchesne D, Cazelles K (2021) Working and visualizing spatial data with R. inSileco Inc. workshop for the Canadian Wildlife Service. March 23-24. https://insilecoinc.github.io/wksh_raster_CWS/
+
+[6] Beauchesne D, Cazelles K (2021) Reproducible Workflows. Increase Everyday Efficiency. inSileco Inc. workshop for the Departement of Fisheries and Oceans. March 1st-2nd. https://insilecoinc.github.io/workshop_reproducibility/
+
+[5] Beauchesne D, Cazelles K (2021) Interactive raster visualization with R. inSileco Inc. workshop for the Departement of Fisheries and Oceans. January 12-13th.
+
+[4] Vissault S, Brice M-H, Beauchesne D, Cazelles K (2019) Touchdown your research with R. QCBS R Workshop.
 
 [3] Cartography in R workshop (2018) Québec Océans's 2018 student retreat. Île d'Orléans, Québec, Canada, April 13-15th. Instructors: Dreujou E, Beauchesne D, Brice M-H, Casajus N, Cazelles K, Vissault S
 
