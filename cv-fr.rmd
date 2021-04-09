@@ -1,0 +1,596 @@
+---
+title: "*Curriculum vitae*"
+author: David Beauchesne
+date: "9 avril 2021"
+fontfamily: fourier
+linestretch: 1
+fontsize: 10pt
+output:
+  pdf_document:
+    latex_engine: xelatex
+---
+
+<!--
+rmarkdown::render('./cv-fr.rmd', 'pdf_document')
+-->
+
+
+
+<br/>
+
+
+**David Beauchesne**, Ph.D.
+
+Chercheur postdoctoral
+
+Université Laval
+
+Cell: 1 (514) 553-4974
+
+david.beauchesne@hotmail.com
+
+
+<!-- <br/> -->
+
+<!-- # Social / scientific media
+
+[<img src="https://github.com/favicon.ico" width="32">](https://github.com/david-beauchesne)
+[<img src="http://www.public.asu.edu/~mdedeogl/images/gscholar.png" width="32">](https://scholar.google.ca/citations?user=8YPeWfgAAAAJ&hl=en&oi=ao)
+[<img src="https://pbs.twimg.com/profile_images/428743904729374720/UHfQGF1o_400x400.png" width="38">](https://impactstory.org/u/0000-0002-3590-8161)
+[<img src="https://image.freepik.com/free-icon/linkedin-logo-ios-7-interface-symbol_318-33633.jpg" width="32">](https://www.linkedin.com/in/david-beauchesne-16683353/)
+[<img src="https://orcid.org/sites/default/files/files/ID_symbol_B-W_128x128.png" width="32">](https://www.orcid.org/0000-0002-3590-8161)
+[<img src="http://brdhar.com/wp-content/uploads/2014/06/07a4b9_606b0c30d68440e89683d89fe89ecb79-mv2.png" width="32">](https://www.researchgate.net/profile/David_Beauchesne)
+[<img src="https://image.freepik.com/free-icon/twitter-logo_318-40459.jpg" width="32">](https://twitter.com/d_beauchesne)
+ -->
+
+<!-- ---
+
+**GitHub**: [https://github.com/david-beauchesne](https://github.com/david-beauchesne)
+
+**Google Scholar**: [https://scholar.google.ca/citations?user=8YPeWfgAAAAJ&hl=en&oi=ao](https://scholar.google.ca/citations?user=8YPeWfgAAAAJ&hl=en&oi=ao)
+
+**Impact story**: [https://impactstory.org/u/0000-0002-3590-8161](https://impactstory.org/u/0000-0002-3590-8161)
+
+**LinkedIn**: [https://www.linkedin.com/in/david-beauchesne-16683353/](https://www.linkedin.com/in/david-beauchesne-16683353/)
+
+**ORCID**: [orcid.org/0000-0002-3590-8161](https://www.orcid.org/0000-0002-3590-8161)
+
+**Research gate**: [researchgate.net/profile/David_Beauchesne](https//www.researchgate.net/profile/David_Beauchesne)
+
+**Twitter**: [@d_beauchesne](https://twitter.com/d_beauchesne)
+
+<br/>
+-->
+
+---
+
+# Expériences professionnelles
+
+2020-aujourd'hui - Chercheur postdoctoral, Université Laval, Québec, Canada
+
+2020-aujourd'hui - inSileco Inc., Co-président and co-fondateur
+
+2012-2014 - Professionnel de recherche, Université du Québec à Rimouski, Qc, Canada
+
+---
+
+# Diplômes
+
+2014-2020 - Ph.D. Océanographie, Université du Québec à Rimouski, Qc, Canada
+
+2009-2012 - M.Sc. Geography, Planning & Environment, Concordia University, Qc, Canada
+
+2006-2009 - B.Sc. Biologie, Université du Québec à Rimouski, Qc, Canada
+
+<br/>
+
+---
+
+# Intérêts de recherche
+
+Gestion écosystémique, effets cumulatifs, conservation, écologie, réseaux trophiques, communautés écologiques, biodiversité, impacts humains, réseaux socioécologiques, bioinformatique, science et données ouvertes
+
+<br/>
+
+---
+
+# Compétences techniques
+
+R, LaTeX, Markdown, HTML5, CSS, Shiny, Inkscape, ArcGIS, QGIS, Office, Marxan
+
+<br/>
+
+---
+
+# Bourses
+
+[3] 2019-2020 – $BIOS^2$ Fellow (10 000$)
+
+[2] 2015-2018 – Programme de bourses d’études supérieures du CRSNG – doctorat (ES D) – Conseil de recherches en sciences naturelles et en génie du Canada (CRSNG; 21 000$/année pour 3 ans)
+
+[1] 2014-2017 – Bourse de recherche doctorale - Fonds de recherche du Québec - Nature et Technologies (FRQNT; 20 000$/année pour 3 ans)
+
+<br/>
+
+---
+
+# Prix
+
+[4] 2017 - Prix du public pour la meilleure affiche scientifique - Next Generation Planning - Structuring and Sharing Stressors Data for the St. Lawrence - Québec Ocean's Annual Scientific Meeting 2017, May 13-15th 2017, Rivière-du-Loup, Québec, Canada
+
+[3] 2016 – Prix du public – The link between machine learning, networking, pokemon and ecology – Québec Océans’s 15th Annual General Assembly, 8-9th November 2016, Rimouski, Canada
+
+[2] 2016 – Prix de la meilleure présentation orale – The link between machine learning, networking, pokemon and ecology – Québec Océans’s 15th Annual General Assembly, 8-9th November 2016, Rimouski, Canada
+
+[1] 2015 – Prix Frances Wilson pour l'avancement des connaissances scientifiques (2 500$)
+
+
+<br/>
+
+---
+
+# Articles publiés
+
+[9] Fajardo P, Beauchesne D, Carbajal-López A, Daigle R M, Fierro Arcos L D, Goldsmit J, Zajderman S, Christofoletti R A (2021) Integrating traditional knowledge into conservation and sustainable use of marine and coastal biodiversity. Peer J.
+
+[8] Beauchesne, D, Daigle, R M, Vissault, S, Gravel, D, Bastien, A, Bélanger, S, Bernatchez, P, Blais, M, Bourdages, H, Chion, C, Galbraith, P S, Halpern, B S, Lavoie, C, McKindsey, C W, Mucci, A, Pineault, S, Starr, M, Ste-Marie, A-S, & Archambault, P (2020). Characterizing Exposure to and Sharing Knowledge of Drivers of Environmental Change in the St. Lawrence System in Canada. Frontiers in Marine Science, 7. https://doi.org/10.3389/fmars.2020.00383
+
+[7] Dreujou E, Carrier-Belleau C, Goldsmit J, Fiorentino D,  Ben-Hamadou R, Said H, Muelbert J H, Godbold J A, Daigle R M, Beauchesne D (2020) Holistic Environmental Assessments and Aichi Biodiversity Targets: accomplishments and perspectives. Peer J.
+
+[6] Albouy C, Archambault P, Appeltans W, Araújo M, Beauchesne D, Cazelles K, Cirtwill A, Fortin M-J, Galiana N, Leroux S, Pellissier L, Poisot T, Stouffer D, Wood S, Gravel D (2019) The marine fish food web is globally connected. Nature Ecology and Evolution. 3:1153-1161. https://doi.org/10.1038/s41559-019-0950-y.
+
+[5] Beauchesne D, Desjardins-Proulx P, Archambault P, Gravel D (2016) Thinking outside the box – predicting interactions in data-poor environments. Life & Environment. 66(3-4):333-342
+
+[4] Beauchesne D, Grant C, Gravel D, Archambault P (2016) L’évaluation des impacts cumulés dans l’estuaire et le golfe du Saint-Laurent : vers une planification stratégique de l’utilisation et de l’exploitation des ressources. Le Naturaliste Canadien. 140(2):45-55
+
+[3] Beauchesne D, Jaeger JAG, St-Laurent M-H (2014) Thresholds in the capacity of female caribou to cope with cumulative disturbances. Biol Cons 172:190-199.
+
+[2] Beauchesne D, Jaeger JAG, St-Laurent M-H (2013) Disentangling female woodland caribou movements in response to clearcuts and roads across temporal scales. PLoS ONE e77514
+
+[1] St-Laurent M-H, Renaud L-A, Leblond M, Beauchesne D (2012) Synthèse des connaissances relatives aux impacts des routes sur l’écologie du caribou. Le Naturaliste Canadien 136:42-47
+
+<br/>
+
+---
+
+
+# Articles soumis ou en préparation
+
+[2] Beauchesne, D, Cazelles, K, Archambault, P, Dee, L, & Gravel, D (2020). On the sensitivity of food webs to multiple stressors [Preprint]. Preprints. https://doi.org/10.22541/au.159621485.58777803. En révision à la revue Ecology Letters.
+
+[1] Beauchesne, D, Cazelles, K, Daigle, R M, Gravel, D, Archambault, P (En préparation). Ecological interactions amplify cumulative effects in marine ecosystems.
+
+<br/>
+
+---
+
+
+# Chapitre de livre
+
+[1] Schloss IR, Archambault P, Beauchesne D, Bourgault D, Cusson M, Dumont D, Ferreyra G, Levasseur M, Pelletier É, St-Louis R, Tremblay R (2018) Impacts potentiels cumulés des facteurs de stress liés aux activités humaines sur l’écosystème marin du Saint-Laurent. Réseau Notre Golfe.
+
+
+<br/>
+
+---
+
+# Thèse et mémoire
+
+[2] Beauchesne D (2020) Évaluation des effets cumulatifs des changements globaux sur les écosystèmes. Le cas de l'estuaire et du golfe du Saint-Laurent. Université du Québec à Rimouski. Ph.D. Thèse de doctorat.
+
+[1] Beauchesne D (2012) Influence of disturbances on the movements of female woodland caribou (Rangifer tarandus caribou) across multiple spatiotemporal scales. Concordia University. M.Sc. Mémoire de maîtrise
+
+<br/>
+
+
+---
+
+# Vulgarisation scientifique
+
+[1] Carrier-Belleau C, Beauchesne D, Dreujou E, Isabel L (2019) Le Saint-Laurent : comment évaluer l’empreinte humaine dans un système complexe ? L'interdisciplinaire, Institut Hydro-Québec en environnement, développement et société (Institut EDS), Université Laval, Numéro 17, Automne 2019
+
+<br/>
+
+---
+
+
+# Rapports techniques
+
+[7] Lachance S-C, Beauchesne D, pour le MDDELCC (Ministère du Développement Durable et de la Lutte contre les Changements Climatiques) (2017) Étude de planification systématique de la conservation à l’aide de l’outil Marxan : Rapport final d’analyse d’une étude de cas sur le territoire continental du Plan Nord (Québec). 101 p.
+
+[6] Grant C, Monpert C, Rondeau M-H, Beauchesne D, Stoeffler C (2015) Cartographie de bancs de laminaires à l’aide de méthodes acoustiques. 46p.+v
+
+[5] Beauchesne D, Cadotte M, Dussault C, St-Laurent M-H (2014) Revue de littérature critique sur le contrôle des prédateurs dans un contexte de conservation du caribou forestier au Québec. Scientific report presented to the MFFP. Rimouski. 44p.+vii
+
+[4] St-Laurent M-H, Beauchesne D, Dussault C, Lesmerises F (2014) Évaluation des impacts des chemins forestiers sur l’écologie du caribou forestier au Québec. Scientific report presented to the MFFP. Rimouski. 41p.+ii
+
+[3] Beauchesne D, Faille G, Brêthes J-C (2014) Étude concernant une aire marine protégée aux îles de la Madeleine. Volume 1. Rapport d’étude et analyse écologique. Report prepared for the MDDEFP and Parks Canada. 81p.+Annexes
+
+[2] Grant C, Faille G, Beauchesne D (2014) Étude concernant une aire marine protégée aux îles de la Madeleine. Volume 3. Atlas cartographique des îles de la Madeleine. Report prepared for the MDDEFP and Parks Canada. xv+143p.
+
+[1] Renaud L-A, Leblond M, Beauchesne D, St-Laurent M-H (2010) Synthèse des connaissances relatives aux impacts du réseau routier sur l’écologie du caribou forestier. Literature review presented to the provincial forest-dwelling caribou recovery team. 21pp.
+
+
+<br/>
+
+---
+
+# Présentations orales
+
+[26] Beauchesne D, Guillemette C, Grant C, Archambault P (2021). Évaluation des effets cumulatifs. Une perspective écosystémique. Conférencier invité pour Environnement Canada. 25 mars.
+
+[25] Beauchesne D, Archambault P. (2021) Évaluation des effets cumulatifs des changements globaux sur les communautés écologiques. Conférencier invité pour Pêches et Océans Canada. 12 février. https://david-beauchesne.github.io/2021-02-12-DFO_MSP/#1
+
+[24] Beauchesne D (2021) Évaluation des effets cumulatifs. Une perspective écosystémique. Conférencier invité pour un cours sur l'évaluation des effets environnementaux à l'Université Laval. 9 février.
+
+[23] Beauchesne D (2021) Cumulative effects assessment. An ecosystem perspective. Invited speaker. Webinaire sur l'évaluation et la gestion des effects cumulatifs par et pour les Premières Nations. 4 février. https://david-beauchesne.github.io/2021-02-04_Webinaire_IDDPNQL_en/#1
+
+[22] Beauchesne D, K Cazelles, R M Daigle, D Gravel, Archambault P (2020) Assessing the cumulative effects of global changes on ecosystems.
+The case of the St. Lawrence System. Conférencier invité Pêches et Océans Canada. 16 décembre. https://david-beauchesne.github.io/DFO-BIO_Intro_presentation/#1
+
+[21] Beauchesne D, Grant C, Archambault P (2020) Effets cumulatifs des activités maritimes sur le Saint-Laurent et la rivière Saguenay - Projet pilote. Webinaire public pour Transports Canada. 1er juin. https://effetscumulatifsnavigation.github.io/WebinaireMethode/
+
+[20] Beauchesne D (2019) Évaluation de l’exposition cumulée au sein du Saint-Laurent: défis, solutions et perspectives. Conférencier invité. Institut Maurice Lamontagne, Pêches et Océans Canada, Mont-Joli, Québec, Canada. 2 mai.
+
+[19] Beauchesne D, Daigle R, Goldsmit J, Metaxas A, Snelgrove P, Archambault P (2018) An overview of activities and outputs of the mentoring program for the 4th World Conference on Marine Biodiversity. CHONe II 2018 annual meeting, Ottawa, Ontario, Canada. 29 novembre - 1er décembre.
+
+[18] Isabel L, Beauchesne D, Daigle R, Archambault P (2018) CHONe project presentation. CHONe II 2018 annual meeting, Ottawa, Ontario, Canada. 29 novembre - 1er décembre.
+
+[17] Beauchesne D, Daigle R, Vissault S, Lavoie C, Gravel D, Archambault P (2018) Meta-networks Using network theory to structure and evaluate cumulative impacts. 4th World Conference on Marine Biodiversity. Montréal, Québec, Canada. 13-15 mai.
+
+[16] Beauchesne D, Gravel D, Archambault P (2018) Next Generation Planning - Evaluating cumulative impacts on the communities of the Estuary and Gulf of St. Lawrence. Conférencier invité à l'université de Guelph. Guelph, Ontario, Canada. 20 février.
+
+[15] Beauchesne D, Daigle R, Gravel D, Mckindsey C, Therriault T, Archambault P (2017) Indicators of benthic condition at the gulf-scale: megabenthic community structure. CHONe II 2017 annual meeting, Gatineau, Québec, Canada, 3 mai.
+
+[14] Beauchesne D, Desjardins-Proulx P, Archambault P, Gravel D (2017) Using machine learning to predict biotic interactions. Conférencier invité, Midi numérique, Biology Department, Université de Sherbrooke, Sherbrooke, Québec, Canada. 27 février.
+
+[13] Beauchesne D (2017) An “homage” to 50 years of cumulative effects assessment or Why are we still not managing resources systematically? Conférencier invité, Advanced Seminar in Environmental Science, Department of Geography, Planning and Environment, Concordia University, Montréal, Québec. 1er février.
+
+[12] Beauchesne D, Desjardins-Proulx P, Archambault P, Gravel D (2016) Thinking outside the box – predicting biotic interations in data-poor environments. Annual meeting of the Québec Center for Biodiversity Science (QCBS), Montréal, Québec, Canada, 15-16 décembre.
+
+[11] Beauchesne D, Desjardins-Proulx P, Archambault P, Gravel D (2016) The link between machine learning, networking, pokemon and ecology. Québec Océans’s 15th Annual General Assembly, Rimouski, Canada, 8-9 novembre.
+
+[10] Beauchesne D, Gravel D, Archambault P (2015) Évaluation des impacts cumulés sur les communautés de l’estuaire et du golfe du Saint-Laurent. Annual meeting of the Québec Center for Biodiversity Science (QCBS), Montréal, Québec, Canada, 29-30 octobre.
+
+[9] Beauchesne D, Faille G, Grant C, Archambault P, Brêthes J-C (2015) Biodiversité et exploitation des ressources naturelles : vers une structuration du milieu marin. 83rd Acfas conference, Rimouski, Qubec, Canada, 25-29 mai.
+
+[8] Monpert C, Grant C, Rondeau M-H, Grelon D, Stoeffler C, Beauchesne D (2015) Méthodes de cartographie des herbiers marins à l’aide de l’acoustique sous-marine. 83rd Acfas conference, Rimouski, Qubec, Canada, 25-29 mai.
+
+[7] Beauchesne D, Faille G, Grant C, Archambault P, Brêthes J-C (2015) Building the bridge between the preservation of biodiversity and human activities. 44th annual Benthic Ecology Meeting, Québec, Québec, Canada. 4-7 mars.
+
+[6] Beauchesne D, Jaeger JAG, St-Laurent M-H (2011) Evidence of a non-linear response to anthropogenic disturbances : a case-study with woodland caribou in a highly managed landscape. 13th International Arctic Ungulate Conference, Yellowknife, Territoires du Nord-Ouest, Canada
+
+[5] Beauchesne D, Jaeger JAG, St-Laurent M-H (2011) Seuils dans la capacité du caribou à faire face aux perturbations anthropiques. 36th annual SQÉBC conference, Sherbrooke, Québec, Canada.
+
+[4] Beauchesne D, Jaeger JAG, St-Laurent M-H (2011) Behavioural responses of forest-dwelling caribou to different anthropogenic barrier types in the boreal forest. Invited speaker, Biology department, Concordia university, Montréal, Québec, Canada
+
+[3] Beauchesne D, Jaeger JAG, St-Laurent M-H (2011) Situation et conservation du caribou forestier en forêt boréale. Invited speaker, School of veterinary medicine, Université de Montréal, St-Hyacinthe, Québec, Canada
+
+[2] Beauchesne D (2010) Influence of different barrier types on the movement behavior of forest-dwelling caribou in the boreal forest. Invited speaker, Department of geography, urban studies and environment, Concordia university, Montréal, Québec, Canada
+
+[1] Beauchesne D, Jaeger JAG, St-Laurent M-H (2010) Réactions du caribou forestier à différent types de barrières anthropique au Saguenay-Lac-Saint-Jean. 2nd conference “Le caribou forestier : un enjeu de biodiversité et de développement durable”, Saguenay, Québec, Canada
+
+
+<br/>
+
+---
+
+# Affiches
+
+[14] Beauchesne D, Cazelles K, Archambault P, Gravel D (2019) La sensibilité des réseaux trophiques à de multiples perturbations. Forum québécois en sciences de la mer, Rimouski, Québec, Canada, 11-13 novembre.
+
+[13] Huot M, Dalgleish F, Vuorenkoski A, Rehm E, Beauchesne D, Archambault P, Piché M (2019) Multispectral laser serial imaging techniques for spectral discrimination of macroalgae and coral. Forum québécois sur les sciences de la mer, Rimouski, Québec, Canada, 11-13 novembre.
+
+[12] Beauchesne D, Daigle R, Vissault S, Gravel D, Bastien A, Bélanger S, Bernatchez P, Chion C, Galbraith PS, Halpern BS, Lavoie C, McKindsey CW, Mucci A, Starr M, Ste-Marie A-S, Archambault P (2018) Next Generation Planning - Structuring and Sharing Environmental Drivers Data for the St. Lawrence. CHONe II 2018 annual meeting, Ottawa, Ontario, Canada, 29 novembre - 1er décembre.
+
+[11] Beauchesne D, Daigle R, Vissault S, Gravel D, Bélanger S, Bernatchez P, Chion C, Galbraith PS,Halpern BS, McKindsey CW, Mucci A, Starr M, Archambault P (2018) Regional assessment of cumulative impacts in the St. Lawrence system. CHONe II 2018 annual meeting, Ottawa, Ontario, Canada, 29 novembre - 1er décembre.
+
+[10] Beauchesne D, Daigle R, Vissault S, Gravel D, Bélanger S, Bernatchez P, Chion C, Galbraith PS,Halpern BS, McKindsey CW, Mucci A, Starr M, Archambault P (2018) Évaluation régionale des impacts cumulés sur le système du Saint-Laurent. Québec Ocean's Annual Scientific Meeting 2018, Rivière-du-Loup, Québec, Canada. 5-6 novembre.
+
+[9] Beauchesne D, Daigle R, Gravel D, Bélanger S, Bernatchez P, Chion C, Galbraith PS, Halpern B, Lavoie C, McKindsey C, Starr M, Tremblay C, Vissault S, Archambault P (2017) Next Generation Planning - Structuring and Sharing Stressors Data for the St. Lawrence. Québec Ocean's Annual Scientific Meeting 2017, Rivière-du-Loup, Québec, Canada. 7-9 novembre.
+
+[8] Beauchesne D, Cazelles K, Blanchet F G, Gravel D, Archambault P (2017) Predicting the spatial distribution of ecological networks. Canadian Society for Ecology & Evolution Meeting 2017, Victoria, British-Columbia, Canada. 7-11 mai.
+
+[7] Beauchesne D, Gravel D, Archambault P (2017) Cumulative impacts on the communities of the estuary and the gulf of St. Lawrence. CHONe II 2017 annual meeting, Gatineau, Québec, Canada, 1-5 mai.
+
+[6] Beauchesne D, Gravel D, Archambault P (2015) Évaluation des impacts cumulés sur les communautés benthiques et pélagiques de l’estuaire et du golfe du Saint-Laurent. Québec-Océan's 14th Annual General Assembly, Québec, Québec, Canada, 10-11 novembre. DOI : 10.13140/RG.2.1.2209.8961
+
+[5] Beauchesne D, Gravel D, Archambault P (2015) Évaluation des impacts cumulés sur les communautés de l’estuaire et du golfe du Saint-Laurent. Annual meeting of the Québec Center for Biodiversity Science (QCBS), Montréal, Québec, Canada, 29-30 octobre.
+
+[4] Beauchesne D, Faille G, Grant C, Archambault P, Brêthes J-C (2014). Identification de milieux d’intérêt pour la conservation dans un contexte de protection du milieu marin et côtier. 13th Québec-Océan Annual General Assembly, Rivière-du-Loup, Québec, Canada, 17-19 novembre.
+
+[3] St-Laurent M-H, Ouellet J-P, Dussault C, Lesmerises R, Renaud L-A, Beauchesne D (2011) Impacts directs et indirects de l’aménagement des forêts sur l’écologie du caribou forestier. Carrefour Forêt Innovation, Québec, Québec, Canada
+
+[2] Beauchesne D, Hamel Pepin R, Morissette L (2008). Prédation bénéfique : comment les mammifères marins peuvent avantager leurs proies. 33rd annual SQÉBC conference, Rimouski, Québec, Canada.
+
+[1] Beauchesne D (2007) Conservation de la tortue mouchetée en Nouvelle-Écosse. Université du Québec à Rimouski, Rimouski, Québec, Canada
+
+<br/>
+
+---
+
+<br/>
+
+# Radio
+
+[2] Radio-Canada July 2nd 2020
+
+[1] Intervenant, Podcast sur la reproductibilité pour Pêches et Océans
+
+---
+
+# Matériel d'enseignement
+
+[1] Beauchesne D., Brice M., Casajus N., Cazelles K., Dreujou E., Vissault S. R in Space (Web book). Learn how to use R as a powerful GIS (en).
+
+<br/>
+
+---
+
+# Implications
+
+[9] SNC-SCOR Canada - Représentant étudiant (2016-2021)
+
+[8] Canadian Healthy Oceans Network (CHONe) – Data Management Committee (2015-2020)
+
+[7] Canadian Healthy Oceans Network (CHONe) – Co-président du CHONe Student Network (2015-2020)
+
+[6] Comité étudiant de Québec Océan – Co-president (2015-2018)
+
+[5] Association étudiante de l'Institut des sciences de la mer (ISMER) – Représentant des étudiants au doctorat (2014-2015); Vice-président (2015-2016)
+
+[4] Comité administratif de Québec Océan – Représentant des étudiants des Université du Québec (2014-2018)
+
+[3] Comité pour le programme de doctorat en océanigraphie conjoint entre l'Université du Québec à Rimouski et l'Université Laval – Représentant des étudiants au doctorat (2014-2016)
+
+[2] Comité de programmes en océanographie de l'Institut des sciences de la mer (ISMER) – Représentant des étudiants au doctorat (2014-2015)
+
+[1] Comité d’Action de l’UQAR sur les Changements Climatiques (CADUCC) – Assistant coordonnateur (2006-2007); coordonnateur (2007-2008)
+
+
+<br/>
+
+---
+
+# Révision par les pairs
+
+[1] Diversity and distributions
+
+
+<br/>
+
+---
+
+# Workshops
+
+[11] DFO Environment and Biodiversity Science Branch Cumulative Effects Workshop. Department of Fisheries and Oceans Canada. 19, 21 et 26 janvier 2021.
+
+[10] Review of Approaches for Marine Conservation Network Monitoring - National Peer Review. Department of Fisheries and Oceans Canada. Montréal, QC, Canada. 10-12 septembre 2019.
+
+[9] Cumulative effects assessment of marine shipping activities: a technical workshop. Transports Canada. Ottawa, ON, Canada. 20-21 février 2019.
+
+[8] Cumulative effects of marine vessel activities in the St. Lawrence: engagement session. Transports Canada et Ministère des Transports du Québec. Wendake, QC, Canada. 7 février 2019.
+
+[7] Marine Protected Areas for 2020 and beyond: A DFO and CHONe joint workshop on MPA network monitoring in Canada’s three oceans.  Montréal, QC, Canada. 14-16 novembre 2018.
+
+[6] École d'été en statistique bayésiennes pour les écologistes, Université de Sherbrooke, 14-18 août 2017.
+
+[5] DFO-CHONe Workshop: Considerations for a Framework for Identifying EBSAS in Need of Management. Ottawa, Ontario, Canada. 6-8 mars 20107.
+
+[4] Atelier de travail sur la prédiction des réseaux écologiques, Université de Sherbrooke, Québec Center for Biodiversity Science (QCBS), 20 novembre au 2 décembre 2016.
+
+[3] DEVOTES indicator workshop, Canadian Healthy Oceans Network (CHONe), 20-21 septembre 2016
+
+[2] Atelier de visualisation scientifique, Québec Center for Biodiversity Science (QCBS), 20-22 mai 2016.
+
+[1] École d'été en écologie computationnelle, Université de Montréal, 2-8 mai 2016.
+
+<br/>
+
+---
+
+# Organisation de workshops
+
+[7] Beauchesne D, Cazelles K (2021) Working and visualizing spatial data with R. Atelier de inSileco Inc. pour le Service Canadien de la Faune d'Environnement Canada. 23-24 mars. https://insilecoinc.github.io/wksh_raster_CWS/
+
+[6] Beauchesne D, Cazelles K (2021) Reproducible Workflows. Increase Everyday Efficiency. Atelier de inSileco Inc. pour Pêches et Océans Canada. 1-2 mars. https://insilecoinc.github.io/workshop_reproducibility/
+
+[5] Beauchesne D, Cazelles K (2021) Interactive raster visualization with R. Atelier de inSileco Inc. pour Pêches et Océans Canada. 12-13 janvier.
+
+[4] Vissault S, Brice M-H, Beauchesne D, Cazelles K (2019) Touchdown your research with R. QCBS R Workshop.
+
+[3] Atelier de travail sur la cartographie avec R (2018) Retraite étudiante 2018 de Québec Océans. Île d'Orléans, Québec, Canada,13-15 avril. Instructeurs: Dreujou E, Beauchesne D, Brice M-H, Casajus N, Cazelles K, Vissault S
+
+[2] CHONe data management workshop (2017) CHONe II 2017 annual meeting, Gatineau, Québec, Canada, 1-2 mai. Instructeurs : Beauchesne D, Daigle R, Grant A.
+
+[1] Activité d'échange de connaissances avec des représentants locaux dans le cadre de l'étude concernant une aire marine protégée aux Îles de la Madeleine (2013). Îles de la Madeleine, QC, Canada. 7-8 mars 2013.
+
+<br/>
+
+---
+
+# Organisation de conférence
+
+
+[4] 4th World Conference on Marine Biodiversity. Comité d'organisation de la conférence, comité étudiant et comité d'organisation du programme de mentorat. Montréal, Québec, Canada. 13-15 mai 2018.
+
+[3] Québec-Ocean's Annual Scientific Meeting 2017, Rivière-du-Loup, Québec, Canada. 1-9 novembre 2017
+
+[2] Québec Océans’s 15th Annual General Assembly, Rimouski, Canada, 8-9 novembre 2016
+
+[1] Québec-Océan's 14th Annual General Assembly, Québec, Québec, Canada, 10-11 novembre 2015
+
+
+<br/>
+
+---
+
+# Enseignement
+
+[3] Visualisation scientifique - Hiver 2019 (March 13th)
+*Université Laval*, pour Sentinelle Nord
+- Visualisation et présentation de données scientifiques
+- Survol des possibilités de visualisation dans R
+
+<br/>
+
+[2] Introduction à R – Automne 2016.
+*Université Laval*, pour le Québec center for biodiversity science (QCBS)
+-	Régressions linéaires avec R
+-	Programmation avec R
+
+<br/>
+
+[1] Assistant d'enseignement – 2009 & 2012
+*Concordia University*, Montréal, Québec
+-	Écologie des plantes et écologie du paysage
+
+
+<!-- # Field work
+
+[3] Rajouter terrain avec Fanny
+
+[2] Annual plurispecific survey of the biodiversity of the Estuary and Gulf of St. Lawrence, NGCC Teleost, Department of Fisheries and Oceans Canada
+
+[1] Rajouter Sept-Îles
+ -->
+
+<br/>
+
+---
+
+# Expériences de travail
+
+[8] Expert indépendant en environnement et sur l'utilisation de Marxan - 2017
+*Ministère du Développement Durable et de la Lutte contre les Changements Climatiques*
+
+Identification de milieux d'intérêt pour la conservation dans le Grand Nord Québécois à l'aide d'une approche de planification systématique de la conservation.
+- Consultant sur l'utilisation de Marxan et la planification systématique de la conservation
+- Développeur de code R pour l'utilisation de Marxan
+-	Analyses spatiales à l'aide de l'outil Marxan
+- Assister l'équipe du gouvernement
+- Assister à l'écriture du rapport technique
+-	Présentation orale et écrite aux représentants gouvernementaux
+
+<br/>
+
+[7] Biologiste - 16 août au 2 septembre 2016
+*Pêches et Océans Canada*
+
+Relevé plurispécifique annuel sur la biodiversité de l'estuaire et du golfe du Saint-Laurent, NGCC Teleost
+- Identification d'invertébrés benthique et de poissons
+
+<br/>
+
+[6] Professionnel de recherche – 2012-2014
+*Université du Québec à Rimouski*
+
+Institut des sciences de la mer (ISMER) et Département of Biologie, Chimie et Géographie
+
+1.	Étude de faisabilité pour une aire marine protégée aux Îles de la Madeleine
+    -	Assistant coordonnateur d'une équipe multidisciplinaire
+    -	Analyses spatiales à l'aide de l'outil Marxan
+    -	Cartographie
+    -	Organisation de réunions et tâches administratives
+    -	Contacts avec des intervenants locaux liés à la pêche et au tourisme
+    -	Organisation d'atelier d'échange avec des intervenants locaux
+    -	Présentations orales et écrites à divers types de publics (scientifiques, représentants gouvernementaux et intervenants locaux)
+    -	Écriture du rapport d'étude
+2.	Développer le matériel pour un cours de 1er cycle sur les aires marines protégées
+    -	Développé le syllabus
+    -	Revue de littérature
+    -	Participer à la préparation du matériel
+3.	Revue de littérature sur le contrôle des prédateurs dans le contexte de la conversation du caribou forestier en forêt boréale
+    -	Revue de littérature
+    -	Écriture du rapport
+4.	Analyse de l'impacts des routes sur l'écologie du caribou forestier et du loup gris dans la région de Charlevoix
+    -	Analyses spatiales et statistiques
+    -	Écriture du rapport
+5.	Cartographie de forêts de laminaires à l'aide de méthodes acoustiques
+    -	Interpolation spatiale de données acoustiques
+    -	Analyses statistiques
+    -	Écriture du rapport
+
+<br/>
+
+[5] Consultant pour analyses spatiales et cartographie – 2013
+*Parcs Canada*
+-	Digitalisation et vectorisation d'entretiens cartographies avec des pêcheurs des Îles de le Madeleine
+
+<br/>
+
+[4] Responsable de la salle de Système d'Information Géographie – 2010-2012
+*Concordia University*, Montréal, Québec
+
+-	Superviseur d'une salle dédiée aux analyses spatiales au sein du département de géographie
+-	Support aux étudiants pour analyses spatiales et statistiques
+
+<br/>
+
+[3] Biologiste – Été 2009
+*Ministère des Ressources Naturelles et de la Faune (MRNF)*
+
+-	Intégration du système SIFA au MRNF Bas-Saint-Laurent
+-	Implémentation d'un nouveau programme de gestion des données sur les pêcheries historiques
+-	Travail de terrain occasionnel pour assister les techniciens du ministère
+
+<br/>
+
+[2] Responsable de projet – Été 2008
+*Université du Québec À Rimouski*, Rimouski, Québec
+
+Identification de la diversité des fossiles au sein d'un site archéologique aux Chics-Chocs en Gaspésie
+
+-	Contacts avec chercheurs experts
+-	Stage en Oregon avec Arthur Boucot
+-	Revue de littérature
+-	Laboratoire
+
+<br/>
+
+[1] Assistant de recherche – Été 2007
+*Acadia University*, Wolfville, Nova-Scotia
+*Kejimkujik National Park and National Historic Site of Canada*
+*Mersey Tobeatic Research Institute*
+
+Étude des sous-populations de tortues mouchetées (Emydoidea blandingii) et de couleuvres rayées (Thamnophis sauritus septentrionalis) dans le Sud-Ouest de la Nouvelle-Écosse.
+
+-	Trappage
+-	Télémétrie
+-	Suivi des sites de pointe
+-	Manipulation d'espèces en péril
+-	Identification de plantes
+-	Gestion de données
+-	Travail avec communautés locales
+-	Travail en région éloignée
+-	Revue de littérature
+-	Travail au sein d'un équipe de rétablissement
+
+<br/>
+
+---
+
+<!--
+# Collaborateur
+
+- Dominique Gravel, co-directeur (dominique.gravel@usherbrooke.ca)
+- Andréane Bastien (BastienA@ogsl.ca)
+- Simon Bélanger (simon_belanger@uqar.ca)
+- Pascal Bernatchez (Pascal_Bernatchez@uqar.ca)
+- Marjolaine Blais (Marjolaine.Blais@dfo-mpo.gc.ca)
+- Guillaume Blanchet (Guillaume.Blanchet@USherbrooke.ca)
+- Hugo Bourdages (Hugo.Bourdages@dfo-mpo.gc.ca)
+- Kevin Cazelles (kevin.cazelles@gmail.com)
+- Clément Chion (clementchion@gmail.com)
+- Rémi M. Daigle (daigleremi@gmail.com)
+- Philippe Desjardins-Proulx (philippe.d.proulx@gmail.com)
+- Peter S. Galbraith (Peter.Galbraith@dfo-mpo.gc.ca)
+- Benjamin Halpern (halpern@nceas.ucsb.edu)
+- Camille Lavoie (camille.lavoie.3@ulaval.ca)
+- Christopher W. McKindsey (Chris.Mckindsey@dfo-mpo.gc.ca)
+- Alfonso Mucci (alfonso.mucci@mcgill.ca)
+- Simon Pineault (Simon.Pineault@environnement.gouv.qc.ca)
+- Michel Starr (Michel.Starr@dfo-mpo.gc.ca)
+- Anne-Sophie Ste-Marie (SteMarieA@ogsl.ca)
+- Steve Vissault (steve.vissault@usherbrooke.ca)
+-->
