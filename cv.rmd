@@ -2,7 +2,7 @@
 title: "*Curriculum vitae*"
 author: David Beauchesne
 date: "`r paste0(format(Sys.time(), '%B %d, %Y'))`"
-fontfamily: fourier
+fontfamily: fourier-otf
 linestretch: 1
 fontsize: 10pt
 output:
@@ -23,13 +23,13 @@ rmarkdown::render('./cv.rmd', 'pdf_document')
 
 **David Beauchesne**, Ph.D.
 
-Postdoctoral researcher
+Postdoctoral researcher, Université Laval \vspace{-.5em}
 
-Université Laval
+inSileco Inc. co-founder & co-president \vspace{-.5em}
 
-Cell: 1 (514) 553-4974
+Cell: 1 (514) 553-4974 \vspace{-.5em}
 
-david.beauchesne@hotmail.com
+david.beauchesne@hotmail.com \vspace{-.5em}
 
 
 <!-- <br/> -->
@@ -90,7 +90,7 @@ david.beauchesne@hotmail.com
 
 # Research Interests
 
-Behavioural ecology, biodiversity, biotic interactions, community ecology, conservation, cumulative impacts, ecology, environmental stressors, functional traits, human impacts, protected areas
+Community ecology, conservation, cumulative effects, ecology, environmental stressors, human impacts, protected areas, social-ecological networks, ecosystem-based management, computational ecology, reproducibility, data science
 
 <br/>
 
@@ -98,7 +98,7 @@ Behavioural ecology, biodiversity, biotic interactions, community ecology, conse
 
 # Technical skills
 
-R, LaTeX, Markdown, HTML5, CSS, SAS, Sigma Plot, Inkscape, ArcGIS, QGIS, Office, Marxan, MaxEnt
+R, LaTeX, Markdown, HTML5, CSS, GitHub, ArcGIS, QGIS, Office, Marxan, SAS, Sigma Plot, Inkscape,
 
 <br/>
 
@@ -133,6 +133,8 @@ R, LaTeX, Markdown, HTML5, CSS, SAS, Sigma Plot, Inkscape, ArcGIS, QGIS, Office,
 
 # Published articles
 
+[10] Beauchesne D, Cazelles K, Archambault P, Dee L, Gravel D (2021). On the sensitivity of food webs to multiple stressors. Ecology Letters, 10.1111/ele.13841
+
 [9] Fajardo P, Beauchesne D, Carbajal-López A, Daigle R M, Fierro Arcos L D, Goldsmit J, Zajderman S, Christofoletti R A (2021) Integrating traditional knowledge into conservation and sustainable use of marine and coastal biodiversity. Peer J.
 
 [8] Beauchesne, D, Daigle, R M, Vissault, S, Gravel, D, Bastien, A, Bélanger, S, Bernatchez, P, Blais, M, Bourdages, H, Chion, C, Galbraith, P S, Halpern, B S, Lavoie, C, McKindsey, C W, Mucci, A, Pineault, S, Starr, M, Ste-Marie, A-S, & Archambault, P (2020). Characterizing Exposure to and Sharing Knowledge of Drivers of Environmental Change in the St. Lawrence System in Canada. Frontiers in Marine Science, 7. https://doi.org/10.3389/fmars.2020.00383
@@ -158,9 +160,9 @@ R, LaTeX, Markdown, HTML5, CSS, SAS, Sigma Plot, Inkscape, ArcGIS, QGIS, Office,
 
 # Articles submitted or in preparation
 
-[2] Beauchesne, D, Cazelles, K, Archambault, P, Dee, L, & Gravel, D (2020). On the sensitivity of food webs to multiple stressors [Preprint]. Preprints. https://doi.org/10.22541/au.159621485.58777803. In revision in Ecology Letters.
+[1] Isabel L, Beauchesne D, McKindsey C W, Archambault P (In review) Detection of ecological thresholds and selection of indicator taxa for epibenthic communities exposed to multiple pressures. Frontiers in Marine Science.
 
-[1] Beauchesne, D, Cazelles, K, Daigle, R M, Gravel, D, Archambault, P (In preparation). Ecological interactions amplify cumulative effects in marine ecosystems.
+[2] Beauchesne, D, Cazelles, K, Daigle, R M, Gravel, D, Archambault, P (In preparation). Ecological interactions amplify cumulative effects in marine ecosystems.
 
 <br/>
 
@@ -218,6 +220,12 @@ R, LaTeX, Markdown, HTML5, CSS, SAS, Sigma Plot, Inkscape, ArcGIS, QGIS, Office,
 ---
 
 # Oral presentations
+
+[29] Beauchesne D. (2021) L'évaluation des effets cumulatifs dans un contexte de gestion écosystémique. Congrès de l'Association québécoise pour l'évaluation d'impacts (AQÉI). Impacts et effets cumulatifs : comment réponse aujourd'hui à ces impératifs? 21/05/2021. Webinar.
+
+[28] Beauchesne D., Daigle R., Vissault S., Gravel D., Bastien A., Bélanger S S., Bernatchez P., Chion C., Galbraith P., Halpern B., Lavoie C., McKindsey C., Mucci A., Starr M., Ste-Marie A., Archambault P. (2021) Les stresseurs environnementaux du Système du Saint-Laurent. Webinaire Québec Océan - Journée Mondiale des Océans 21/06/2021.
+
+[27] Beauchesne D., Grant C., Archambault P. (2021) Effets cumulatifs des activités maritimes sur le Saint-Laurent et la rivière Saguenay - Projet pilote - Webinaire d'avancement. Transports Canada 21/04/2021.
 
 [26] Beauchesne D, Guillemette C, Grant C, Archambault P (2021). Évaluation des effets cumulatifs. Une perspective écosystémique. Invited speaker for Environment Canada. March 25th.
 
@@ -467,11 +475,11 @@ The case of the St. Lawrence System. Invited speaker. December 16th. https://dav
 [2] Annual plurispecific survey of the biodiversity of the Estuary and Gulf of St. Lawrence, NGCC Teleost, Department of Fisheries and Oceans Canada
 
 [1] Rajouter Sept-Îles
- -->
 
 <br/>
 
 ---
+-->
 
 # Work experiences
 
@@ -585,7 +593,6 @@ Studying sub-populations of blanding’s turtle (Emydoidea blandingii) and ribbo
 
 <br/>
 
----
 
 <!--
 # Collaborateur
