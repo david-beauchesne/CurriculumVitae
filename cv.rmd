@@ -25,7 +25,7 @@ rmarkdown::render('./cv.rmd', 'pdf_document')
 
 Postdoctoral researcher, Université Laval \vspace{-.5em}
 
-inSileco Inc. co-founder & co-president \vspace{-.5em}
+<!-- inSileco Inc. co-founder & co-president \vspace{-.5em} -->
 
 Cell: 1 (514) 553-4974 \vspace{-.5em}
 
@@ -133,6 +133,8 @@ R, LaTeX, Markdown, HTML5, CSS, GitHub, ArcGIS, QGIS, Office, Marxan, SAS, Sigma
 
 # Published articles
 
+[11] Isabel L, Beauchesne D, McKindsey C W, Archambault P (2021) Detection of ecological thresholds and selection of indicator taxa for epibenthic communities exposed to multiple pressures. Frontiers in Marine Science, 8:720710. https://doi.org/10.3389/fmars.2021.720710.
+
 [10] Beauchesne D, Cazelles K, Archambault P, Dee L, Gravel D (2021). On the sensitivity of food webs to multiple stressors. Ecology Letters, 10.1111/ele.13841
 
 [9] Fajardo P, Beauchesne D, Carbajal-López A, Daigle R M, Fierro Arcos L D, Goldsmit J, Zajderman S, Christofoletti R A (2021) Integrating traditional knowledge into conservation and sustainable use of marine and coastal biodiversity. Peer J.
@@ -160,9 +162,7 @@ R, LaTeX, Markdown, HTML5, CSS, GitHub, ArcGIS, QGIS, Office, Marxan, SAS, Sigma
 
 # Articles submitted or in preparation
 
-[1] Isabel L, Beauchesne D, McKindsey C W, Archambault P (In review) Detection of ecological thresholds and selection of indicator taxa for epibenthic communities exposed to multiple pressures. Frontiers in Marine Science.
-
-[2] Beauchesne, D, Cazelles, K, Daigle, R M, Gravel, D, Archambault, P (In preparation). Ecological interactions amplify cumulative effects in marine ecosystems.
+[1] Beauchesne, D, Cazelles, K, Daigle, R M, Gravel, D, Archambault, P (In preparation). Ecological interactions amplify cumulative effects in marine ecosystems.
 
 <br/>
 
@@ -219,7 +219,9 @@ R, LaTeX, Markdown, HTML5, CSS, GitHub, ArcGIS, QGIS, Office, Marxan, SAS, Sigma
 
 ---
 
-# Oral presentations
+# Seminars and conferences
+
+[30] Beauchesne D. (2021) L'évaluation des effets cumulatifs dans un contexte de gestion écosystémique. Agence d'évaluation d'impact du Canada 21/09/2021.
 
 [29] Beauchesne D. (2021) L'évaluation des effets cumulatifs dans un contexte de gestion écosystémique. Congrès de l'Association québécoise pour l'évaluation d'impacts (AQÉI). Impacts et effets cumulatifs : comment réponse aujourd'hui à ces impératifs? 21/05/2021. Webinar.
 
@@ -423,6 +425,7 @@ The case of the St. Lawrence System. Invited speaker. December 16th. https://dav
 
 [1] Invited panelist for closing plenary discussion of WCMB 2018
 
+---
 
 # Conference organisation
 
