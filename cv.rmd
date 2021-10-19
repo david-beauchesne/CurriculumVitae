@@ -70,7 +70,7 @@ david.beauchesne@hotmail.com \vspace{-.5em}
 
 2020-Present - Postdoctoral researcher, Université Laval, Québec, Canada
 
-2020-Present - inSileco Inc., Co-president and co-founder
+<!-- 2020-Present - inSileco Inc., Co-president and co-founder -->
 
 2012-2014 - Resarch professional, Université du Québec à Rimouski, Qc, Canada
 
