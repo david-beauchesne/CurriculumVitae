@@ -289,9 +289,13 @@ The case of the St. Lawrence System. Invited speaker. December 16th. https://dav
 
 # Posters
 
+[16] Huot M, Rehm E, Dalgleish F, Beauchesne D, Archambault A, Piché P (2021) The phenomenology of elastic and inelastic full-waveform imaging LiDAR for improved detection of underwater biological substrates. Réunion Scientifique Annuelle de Québec Océan. Conférence en ligne. 31 janvier - 3 février.
+
+[15] Dale J, Archambault P, Legagneux P, Beauchesne D (2021) An analysis of drivers of environmental change: Investigating the diverging population trends of migratory waterfowl and shorebirds. Réunion Scientifique Annuelle de Québec Océan. Conférence en ligne. 31 janvier - 3 février.
+
 [14] Beauchesne D, Cazelles K, Archambault P, Gravel D (2019) La sensibilité des réseaux trophiques à de multiples perturbations. Forum québécois en sciences de la mer, Rimouski, Québec, Canada, November 11-13th.
 
-[13] Huot M, Dalgleish F, Vuorenkoski A, Rehm E, Beauchesne D, Archambault P, Piché M (2019) Multispectral laser serial imaging techniques for spectral discrimination of macroalgae and coral. Forum québécois sur les sciences de la mer, Rimouqki, Québec, Canada, November 11-13th.
+[13] Huot M, Dalgleish F, Vuorenkoski A, Rehm E, Beauchesne D, Archambault P, Piché M (2019) Multispectral laser serial imaging techniques for spectral discrimination of macroalgae and coral. Forum québécois sur les sciences de la mer, Rimouski, Québec, Canada, November 11-13th.
 
 [12] Beauchesne D, Daigle R, Vissault S, Gravel D, Bastien A, Bélanger S, Bernatchez P, Chion C, Galbraith PS, Halpern BS, Lavoie C, McKindsey CW, Mucci A, Starr M, Ste-Marie A-S, Archambault P (2018) Next Generation Planning - Structuring and Sharing Environmental Drivers Data for the St. Lawrence. CHONe II 2018 annual meeting, Ottawa, Ontario, Canada, November 29th - December 1st.
 
