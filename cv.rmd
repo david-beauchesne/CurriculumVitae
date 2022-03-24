@@ -200,6 +200,8 @@ R, LaTeX, Markdown, HTML5, CSS, GitHub, ArcGIS, QGIS, Office, Marxan, SAS, Sigma
 
 # Technical reports
 
+[8] Beauchesne D, Grant C, Archambault P (2022) Évaluation des effets cumulatifs des activités maritimes sur le Saint-Laurent et la rivière Saguenay – Projet pilote. Réalisé pour Transports Canada.
+
 [7] Lachance S-C, Beauchesne D, pour le MDDELCC (Ministère du Développement Durable et de la Lutte contre les Changements Climatiques) (2017) Étude de planification systématique de la conservation à l’aide de l’outil Marxan : Rapport final d’analyse d’une étude de cas sur le territoire continental du Plan Nord (Québec). 101 p.
 
 [6] Grant C, Monpert C, Rondeau M-H, Beauchesne D, Stoeffler C (2015) Cartographie de bancs de laminaires à l’aide de méthodes acoustiques. 46p.+v
@@ -220,6 +222,8 @@ R, LaTeX, Markdown, HTML5, CSS, GitHub, ArcGIS, QGIS, Office, Marxan, SAS, Sigma
 ---
 
 # Seminars and conferences
+
+[31] Beauchesne D., Grant C., Archambault P. Effets cumulatifs des activités maritimes sur le Saint-Laurent et la rivière Saguenay - Projet pilote. Webinaire Transports Canada 22/03/2022. Webinar. URL: https://effetscumulatifsnavigation.github.io/2022-03-TC-webinaire_ceanav/#1
 
 [30] Beauchesne D. (2021) L'évaluation des effets cumulatifs dans un contexte de gestion écosystémique. Agence d'évaluation d'impact du Canada 21/09/2021.
 
@@ -406,6 +410,10 @@ The case of the St. Lawrence System. Invited speaker. December 16th. https://dav
 ---
 
 # Workshop organizer
+
+[9] Beauchesne D, Cazelles K (2022) Reproducible and collaborative reporting in R: R Markdown, git & GitHub. inSileco Inc. workshop for the Canadian Wildlife Service. March 23-25. https://github.com/inSilecoInc/git_markdown
+
+[8] Beauchesne D, Cazelles K (2022) Work more collaboratively in R with git and GitHub. inSileco Inc. workshop for the Departement of Fisheries and Oceans. Sessions through January and March 2022. https://github.com/inSilecoInc/learning_git
 
 [7] Beauchesne D, Cazelles K (2021) Working and visualizing spatial data with R. inSileco Inc. workshop for the Canadian Wildlife Service. March 23-24. https://insilecoinc.github.io/wksh_raster_CWS/
 
