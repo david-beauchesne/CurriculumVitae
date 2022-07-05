@@ -25,7 +25,7 @@ rmarkdown::render('./cv.rmd', 'pdf_document')
 
 Postdoctoral researcher, Université Laval \vspace{-.5em}
 
-<!-- inSileco Inc. co-founder & co-president \vspace{-.5em} -->
+inSileco Inc. co-founder & co-president \vspace{-.5em}
 
 Cell: 1 (514) 553-4974 \vspace{-.5em}
 
@@ -70,7 +70,7 @@ david.beauchesne@hotmail.com \vspace{-.5em}
 
 2020-Present - Postdoctoral researcher, Université Laval, Québec, Canada
 
-<!-- 2020-Present - inSileco Inc., Co-president and co-founder -->
+2020-Present - inSileco Inc., Co-president and co-founder
 
 2012-2014 - Resarch professional, Université du Québec à Rimouski, Qc, Canada
 
@@ -199,6 +199,9 @@ R, LaTeX, Markdown, HTML5, CSS, GitHub, ArcGIS, QGIS, Office, Marxan, SAS, Sigma
 
 
 # Technical reports
+
+[9] Stoyel Q, Finnis S, Gomez C, Lazin G, Daigle R, Brager L, Hamer A, Smith C, Beauchesne D, Cazelles K, Butler S (2022) An open, efficient, and transparent spatial reproducible reporting tool for data discovery and science advice. Can. Tech. Rep. Fish. Aquat. Sci. 3495: vi + 27 p. url: https://waves-vagues.dfo-mpo.gc.ca/Library/41060702.pdf
+
 
 [8] Beauchesne D, Grant C, Archambault P (2022) Évaluation des effets cumulatifs des activités maritimes sur le Saint-Laurent et la rivière Saguenay – Projet pilote. Réalisé pour Transports Canada.
 
