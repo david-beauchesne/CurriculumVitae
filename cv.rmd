@@ -23,7 +23,7 @@ rmarkdown::render('./cv.rmd', 'pdf_document')
 
 **David Beauchesne**, Ph.D.
 
-Postdoctoral researcher, Université Laval \vspace{-.5em}
+Postdoctoral researcher, University of Toronto \vspace{-.5em}
 
 inSileco Inc. co-founder & co-president \vspace{-.5em}
 
@@ -68,7 +68,9 @@ david.beauchesne@hotmail.com \vspace{-.5em}
 
 # Professional experiences
 
-2020-Present - Postdoctoral researcher, Université Laval, Québec, Canada
+2022-Present - Postdoctoral researcher, University of Toronto, Department of Health and Society, Ontario, Canada
+
+2020-2022 - Postdoctoral researcher, Université Laval, Department of Biology, Québec, Canada
 
 2020-Present - inSileco Inc., Co-president and co-founder
 
@@ -105,6 +107,8 @@ R, LaTeX, Markdown, HTML5, CSS, GitHub, ArcGIS, QGIS, Office, Marxan, SAS, Sigma
 ---
 
 # Grants
+
+[4] 2022-2024 - University of Toronto Scarborough Postdoctoral Fellowship (22 500$/year for 2 years)
 
 [3] 2019-2020 – $BIOS^2$ Fellow (10 000$)
 
