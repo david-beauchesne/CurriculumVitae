@@ -137,6 +137,8 @@ R, LaTeX, Markdown, HTML5, CSS, GitHub, ArcGIS, QGIS, Office, Marxan, SAS, Sigma
 
 # Published articles
 
+[12] Huot M, Dalgleish F, Beauchesne D, Piché M, Archambault, P (2023) Machine learning for underwater laser detection and differentiation of macroalgae and coral. Frontiers in Remote Sensing, 4:1135501. https://doi.org/10.3389/frsen.2023.1135501.
+
 [11] Isabel L, Beauchesne D, McKindsey C W, Archambault P (2021) Detection of ecological thresholds and selection of indicator taxa for epibenthic communities exposed to multiple pressures. Frontiers in Marine Science, 8:720710. https://doi.org/10.3389/fmars.2021.720710.
 
 [10] Beauchesne D, Cazelles K, Archambault P, Dee L, Gravel D (2021). On the sensitivity of food webs to multiple stressors. Ecology Letters, 10.1111/ele.13841
@@ -204,10 +206,11 @@ R, LaTeX, Markdown, HTML5, CSS, GitHub, ArcGIS, QGIS, Office, Marxan, SAS, Sigma
 
 # Technical reports
 
+[10] Beauchesne D, Grant C, Archambault P (2023) Cumulative effects of natural and human drivers on food webs of the Scotian Shelf Bioregion to support Marine Spatial Planning. https://ecosystem-assessments.github.io/nceadfo/report/index.html
+
 [9] Stoyel Q, Finnis S, Gomez C, Lazin G, Daigle R, Brager L, Hamer A, Smith C, Beauchesne D, Cazelles K, Butler S (2022) An open, efficient, and transparent spatial reproducible reporting tool for data discovery and science advice. Can. Tech. Rep. Fish. Aquat. Sci. 3495: vi + 27 p. url: https://waves-vagues.dfo-mpo.gc.ca/Library/41060702.pdf
 
-
-[8] Beauchesne D, Grant C, Archambault P (2022) Évaluation des effets cumulatifs des activités maritimes sur le Saint-Laurent et la rivière Saguenay – Projet pilote. Réalisé pour Transports Canada.
+[8] Beauchesne D, Grant C, Archambault P (2022) Cumulative effects assessment of marine vessel activities in the St. Lawrence and the Saguenay River – Pilot Project for Transport Canada. https://effetscumulatifsnavigation.github.io/Report/
 
 [7] Lachance S-C, Beauchesne D, pour le MDDELCC (Ministère du Développement Durable et de la Lutte contre les Changements Climatiques) (2017) Étude de planification systématique de la conservation à l’aide de l’outil Marxan : Rapport final d’analyse d’une étude de cas sur le territoire continental du Plan Nord (Québec). 101 p.
 
@@ -229,6 +232,8 @@ R, LaTeX, Markdown, HTML5, CSS, GitHub, ArcGIS, QGIS, Office, Marxan, SAS, Sigma
 ---
 
 # Seminars and conferences
+
+[32] Beauchesne D, Grant C, Archambault P (2023) Cumulative effects of natural and human drivers on food webs of the Scotian Shelf Bioregion to support Marine Spatial Planning. Fisheries and Oceans Canada. 27/03/2023. Webinar. URL: https://ecosystem-assessments.github.io/nceadfo/webinar/index.html
 
 [31] Beauchesne D., Grant C., Archambault P. Effets cumulatifs des activités maritimes sur le Saint-Laurent et la rivière Saguenay - Projet pilote. Webinaire Transports Canada 22/03/2022. Webinar. URL: https://effetscumulatifsnavigation.github.io/2022-03-TC-webinaire_ceanav/#1
 
@@ -417,6 +422,8 @@ The case of the St. Lawrence System. Invited speaker. December 16th. https://dav
 ---
 
 # Workshop organizer
+
+[10] Beauchesne D, Cazelles K (2022) Building Shiny applications. inSileco Inc. workshop for the Canadian Wildlife Service. November 24-25. https://github.com/inSilecoInc/cws-shiny-workshop
 
 [9] Beauchesne D, Cazelles K (2022) Reproducible and collaborative reporting in R: R Markdown, git & GitHub. inSileco Inc. workshop for the Canadian Wildlife Service. March 23-25. https://github.com/inSilecoInc/git_markdown
 
