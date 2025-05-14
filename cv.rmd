@@ -23,13 +23,11 @@ rmarkdown::render('./cv.rmd', 'pdf_document')
 
 **David Beauchesne**, Ph.D.
 
-Postdoctoral researcher, University of Toronto \vspace{-.5em}
-
-inSileco Inc. co-founder & co-president \vspace{-.5em}
+inSileco Inc. president & co-founder \vspace{-.5em}
 
 Cell: 1 (514) 553-4974 \vspace{-.5em}
 
-david.beauchesne@hotmail.com \vspace{-.5em}
+david.beauchesne@insileco.io \vspace{-.5em}
 
 
 <!-- <br/> -->
@@ -37,7 +35,7 @@ david.beauchesne@hotmail.com \vspace{-.5em}
 <!-- # Social / scientific media
 
 [<img src="https://github.com/favicon.ico" width="32">](https://github.com/david-beauchesne)
-[<img src="http://www.public.asu.edu/~mdedeogl/images/gscholar.png" width="32">](https://scholar.google.ca/citations?user=8YPeWfgAAAAJ&hl=en&oi=ao)
+[<img src="http://www.public.asu.edu/~mdedeogl/images/gscholar.png" width="32">](https://scholar.google.ca/citations?user=8YPeWfgAAAAJ&hl=en&oi=ao$$)
 [<img src="https://pbs.twimg.com/profile_images/428743904729374720/UHfQGF1o_400x400.png" width="38">](https://impactstory.org/u/0000-0002-3590-8161)
 [<img src="https://image.freepik.com/free-icon/linkedin-logo-ios-7-interface-symbol_318-33633.jpg" width="32">](https://www.linkedin.com/in/david-beauchesne-16683353/)
 [<img src="https://orcid.org/sites/default/files/files/ID_symbol_B-W_128x128.png" width="32">](https://www.orcid.org/0000-0002-3590-8161)
@@ -68,11 +66,11 @@ david.beauchesne@hotmail.com \vspace{-.5em}
 
 # Professional experiences
 
-2022-Present - Postdoctoral researcher, University of Toronto, Department of Health and Society, Ontario, Canada
+2020-Present - inSileco Inc., President and co-founder
+
+2022-2024 - Postdoctoral researcher, University of Toronto, Department of Health and Society, Ontario, Canada
 
 2020-2022 - Postdoctoral researcher, Université Laval, Department of Biology, Québec, Canada
-
-2020-Present - inSileco Inc., Co-president and co-founder
 
 2012-2014 - Resarch professional, Université du Québec à Rimouski, Qc, Canada
 
@@ -122,6 +120,8 @@ R, LaTeX, Markdown, HTML5, CSS, GitHub, ArcGIS, QGIS, Office, Marxan, SAS, Sigma
 
 # Prizes
 
+[5] 2020 - Prize for best collaborative publication - Québec Océan - Beauchesne et al. (2020) Characterizing Exposure to and Sharing Knowledge of Drivers of Environmental Change in the St. Lawrence System in Canada. Frontiers in Marine Science 7, 383. 
+
 [4] 2017 - Public prize for best poster - Next Generation Planning - Structuring and Sharing Stressors Data for the St. Lawrence - Québec Ocean's Annual Scientific Meeting 2017, May 13-15th 2017, Rivière-du-Loup, Québec, Canada
 
 [3] 2016 – Public prize – The link between machine learning, networking, pokemon and ecology – Québec Océans’s 15th Annual General Assembly, 8-9th November 2016, Rimouski, Canada
@@ -136,6 +136,8 @@ R, LaTeX, Markdown, HTML5, CSS, GitHub, ArcGIS, QGIS, Office, Marxan, SAS, Sigma
 ---
 
 # Published articles
+
+[13] Dreujou E, Beauchesne D, Daigle R M, Carrière J, Noisette F, McKindsey C W, Archambault P (2023) Multiple human activities in coastal benthic ecosystems: introducing a metric of cumulative exposure. Elementa: Science of the Anthropocene
 
 [12] Huot M, Dalgleish F, Beauchesne D, Piché M, Archambault, P (2023) Machine learning for underwater laser detection and differentiation of macroalgae and coral. Frontiers in Remote Sensing, 4:1135501. https://doi.org/10.3389/frsen.2023.1135501.
 
@@ -205,6 +207,14 @@ R, LaTeX, Markdown, HTML5, CSS, GitHub, ArcGIS, QGIS, Office, Marxan, SAS, Sigma
 
 
 # Technical reports
+
+[12] Bellavance V, Deslongchamps G, Beauchesne D, Grant C, Archambault P (2024)
+Activité 2 : Identification des habitats potentiels des plumes de mer dans l'estuaire maritime
+et le golfe du Saint-Laurent. Document remis à Pêches et Océans Canada, xii + 81 p
+
+[11] Deslongchamps G, Bellavance V, Beauchesne D, Grant C, Archambault P (2024) Activité
+1 : Évaluation de la vulnérabilité des coraux et des éponges de l’estuaire maritime et du golfe du
+Saint-Laurent face aux différents stresseurs. Document remis à Pêches et Océans Canada, 101 p.
 
 [10] Beauchesne D, Grant C, Archambault P (2023) Cumulative effects of natural and human drivers on food webs of the Scotian Shelf Bioregion to support Marine Spatial Planning. https://ecosystem-assessments.github.io/nceadfo/report/index.html
 
@@ -361,11 +371,11 @@ The case of the St. Lawrence System. Invited speaker. December 16th. https://dav
 
 # Implications
 
-[9] SNC-SCOR Canada - student representative (2016-Present)
+[9] SNC-SCOR Canada - student representative (2016-2022)
 
-[8] Canadian Healthy Oceans Network (CHONe) - Data Management Committee (2015-Present)
+[8] Canadian Healthy Oceans Network (CHONe) - Data Management Committee (2015-2018)
 
-[7] Canadian Healthy Oceans Network (CHONe) – Co-president of CHONe Student Network (2015-Present)
+[7] Canadian Healthy Oceans Network (CHONe) – Co-president of CHONe Student Network (2015-2018)
 
 [6] Québec Océan Student Committee – Co-president (2015-2018)
 
